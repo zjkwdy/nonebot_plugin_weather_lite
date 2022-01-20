@@ -7,7 +7,7 @@ setuptools.setup(
     version="0.0.1",
     author="zjkwdy",
     author_email="3377911508@qq.com",
-    keywords=("pip", "nonebot2", "nonebot", "weather", "nonebot_plugin"),
+    keywords=["pip", "nonebot2", "nonebot", "weather", "nonebot_plugin"],
     description="""使用wttr.in的天气查询 ，支持大部分wttr.in的用法。""",
     long_description=long_description,
     long_description_content_type="text/markdown",

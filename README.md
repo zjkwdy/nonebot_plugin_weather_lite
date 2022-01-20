@@ -4,6 +4,22 @@
 
 使用://github.com/chubin/wttr.in
 
+### 安装：
+
+pip：
+
+```
+pip install nonebot-plugin-weather-lite
+```
+
+bot.py:
+
+```
+nonebot.load_plugin('nonebot_plugin_weather_lite')
+```
+
+
+
 ### 命令：
 
 注：1.以下`天气`命令均可以使用`wttr`、`weather`、`tianqi`等效替代,
